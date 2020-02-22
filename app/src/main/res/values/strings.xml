@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ten Ideas</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ten_ideas">TenIdeasActivity</string>
+    <string name="action_save">Save</string>
+    <string name="favourites">Favourites</string>
+    <string name="favourite_item">favourite item</string>
+    <string name="fuck_off">fuck off</string>
+</resources>
